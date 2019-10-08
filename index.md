@@ -20,13 +20,23 @@
 
 ---
 ### <font size="3" color="#327BB4">Projects</font> 
+<ul>
+    <li>Item A</li>
+    <li>Item B
+        <ul>
+            <li>Subitem B.1</li>
+            <li>Subitem B.2</li>
+        </ul></li>
+    <li>Item C</li>
+</ul>
 
 ---
 ### <font size="3" color="#327BB4">Publications</font> 
 
 
+
 ---
-###<font size="3" color="#327BB4">About Me</font> 
+### <font size="3" color="#327BB4">About Me</font> 
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
