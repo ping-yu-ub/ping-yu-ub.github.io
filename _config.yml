@@ -2,10 +2,12 @@ title: Ping Yu # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   I am second-year PhD student in CSE department of University at Buffalo, supervised by Dr. Changyou Chen. 
-  # <br><br>
-  # Second description 
   <br><br>
+  <font size="3" color="red">This is some text!</font>
+  <br><br>
+
   <a href="https://www.linkedin.com/in/ping-yu-05ba8212b/">View My LinkedIn Profile</a> 
+
 
 
   
