@@ -33,7 +33,7 @@
  -->
 ---
 
-### ### <font size="3" color="color:#3895D3">About Me</font> 
+###<font size="3" color="color:#3895D3">About Me</font> 
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
