@@ -2,7 +2,7 @@
 
 ---
 
-### <font size="3" color="color:#327BB4">About Me</font> 
+### <font size="3" color="color:#1261A0">About Me</font> 
 <p><b>
 	I am a second year Second-year PhD Student at the University at Buffalo, State University of New York, supervised by Dr. Changyou Chen. In general my research interest includes:  
 </b></p>
@@ -33,7 +33,7 @@
  -->
 ---
 
-### Category Name 2
+### ### <font size="3" color="color:#3895D3">About Me</font> 
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
