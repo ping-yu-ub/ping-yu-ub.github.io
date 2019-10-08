@@ -18,8 +18,8 @@
 <p><b>Before that, I received master degree from the Department of Electrical and Computer Engineering at University at Michigan, Ann Arbor in 2016, and my bachelor degree from the Department of Electrical and Computer Engineering at the Central SOuth University, Changsha, China.
 </b></p>
 
----
-### <font size="3" color="#327BB4">Projects</font> 
+<!-- ---
+### <font size="3" color="#327BB4">Experience</font> 
 <ul>
     <li>Item A</li>
     <li>Item B
@@ -28,10 +28,15 @@
             <li>Subitem B.2</li>
         </ul></li>
     <li>Item C</li>
-</ul>
+</ul> -->
 
 ---
 ### <font size="3" color="#327BB4">Publications</font> 
+<p>
+	<b>P Yu</b>, R Zhang, Y Zhang, C Li, C Chen. <I>Self-Enhanced Inverse Reinforcement Learning for Text Generation</I>
+</p>
+
+
 
 
 
