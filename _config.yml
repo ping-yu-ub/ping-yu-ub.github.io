@@ -2,6 +2,9 @@ title: Ping Yu # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Second-year PhD Student in CSE department at the University at Buffalo, State University of New York, supervised by Dr. Changyou Chen.
+  
+  <br><br>
+
   In general my research interest includes:
   <ul>
   <li>Deep generative models such as VAE and GAN </li>
@@ -10,6 +13,10 @@ description: > # your text below (remove <br> elements if you don't need line br
   </ul> 
    
   <br><br>
+  - Apple
+  - Orange
+  - Strawberry
+  - Mango
 
   <a href="https://www.linkedin.com/in/ping-yu-05ba8212b/">View My LinkedIn Profile</a> 
 
