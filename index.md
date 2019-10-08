@@ -3,8 +3,20 @@
 ---
 
 ### About Me 
+<p><b>
+	I am a second year Second-year PhD Student at the University at Buffalo, State University of New York, supervised by Dr. Changyou Chen. In general my research interest includes:  
+</b></p>
+<ul>
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ul> 
 
-<p><b>Before that, I received B.S. degree in the Department of Electrical and Computer Engineering from the Central South University</b></p>
+
+
+
+<p><b>Before that, I received master degree from the Department of Electrical and Computer Engineering at University at Michigan, Ann Arbor in 2016, and my bachelor degree from the Department of Electrical and Computer Engineering at the Central SOuth University, Changsha, China.
+</b></p>
 
 
 
