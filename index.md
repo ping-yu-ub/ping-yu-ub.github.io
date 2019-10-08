@@ -39,7 +39,7 @@
 
 
 
-
+<!-- 
 ---
 ### <font size="3" color="#327BB4">About Me</font> 
 
@@ -49,7 +49,7 @@
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
 
----
+--- -->
 
 
 
