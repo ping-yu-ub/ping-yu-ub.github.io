@@ -7,9 +7,9 @@
 	I am a second year Second-year PhD Student at the University at Buffalo, State University of New York, supervised by Dr. Changyou Chen. In general my research interest includes:  
 </b></p>
 <ul>
-  <li>Coffee</li>
-  <li>Tea</li>
-  <li>Milk</li>
+  <li>Deep generative models such as VAE and GAN</li>
+  <li>Deep reinforcement learning</li>
+  <li>Applications for sequence generation include text generation and action generation</li>
 </ul> 
 
 
