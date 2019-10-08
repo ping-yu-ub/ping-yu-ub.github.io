@@ -33,7 +33,7 @@
 ---
 ### <font size="3" color="#327BB4">Publications</font> 
 <p>
-	<b>P Yu</b>, R Zhang, Y Zhang, C Li, C Chen. <I>Self-Enhanced Inverse Reinforcement Learning for Text Generation</I>
+	<b>P Yu</b>, R Zhang, Y Zhang, C Li, C Chen. <I>Self-Enhanced Inverse Reinforcement Learning for Text Generation <b>(Oral)</b>.</I> <I>Imitation, Intent, and Interaction, International Conference on Machine Learning <b>(ICML)</b>, 2019.</I>
 </p>
 
 
