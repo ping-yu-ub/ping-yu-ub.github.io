@@ -1,9 +1,14 @@
 title: Ping Yu # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  I am second-year PhD student in CSE department of University at Buffalo, supervised by Dr. Changyou Chen. 
-  <br><br>
-  Research Interest: Deep generated model for sequence of data
+  Second-year PhD Student in CSE department at the University at Buffalo, State University of New York, supervised by Dr. Changyou Chen.
+  In general my research interest includes:
+  <ul>
+  <li>Deep generative models such as VAE and GAN </li>
+  <li>Deep reinforcement learning</li>
+  <li>Applications for sequence generation include text generation and action generation</li>
+  </ul> 
+   
   <br><br>
 
   <a href="https://www.linkedin.com/in/ping-yu-05ba8212b/">View My LinkedIn Profile</a> 

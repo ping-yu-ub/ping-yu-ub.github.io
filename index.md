@@ -2,10 +2,14 @@
 
 ---
 
-### Category Name 1 
+### About Me 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<p><b>Before that, I received B.S. degree in the Department of Electrical and Computer Engineering from the Central South University</b></p>
+
+
+
+<!-- [Project 1 Title](/sample_page) -->
+<!-- <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
 
 ---
 <!-- [Project 2 Title](/pdf/sample_presentation.pdf)
