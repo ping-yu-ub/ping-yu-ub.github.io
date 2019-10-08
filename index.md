@@ -18,22 +18,15 @@
 <p><b>Before that, I received master degree from the Department of Electrical and Computer Engineering at University at Michigan, Ann Arbor in 2016, and my bachelor degree from the Department of Electrical and Computer Engineering at the Central SOuth University, Changsha, China.
 </b></p>
 
-
-
-<!-- [Project 1 Title](/sample_page) -->
-<!-- <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
+---
+### <font size="3" color="#327BB4">Projects</font> 
 
 ---
-<!-- [Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+### <font size="3" color="#327BB4">Publications</font> 
+
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
- -->
----
-
-###<font size="3" color="color:#3895D3">About Me</font> 
+###<font size="3" color="#327BB4">About Me</font> 
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
@@ -46,6 +39,6 @@
 
 
 
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
+<!-- ---
+<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p> -->
 <!-- Remove above link if you don't want to attibute -->
