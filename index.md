@@ -15,7 +15,7 @@
 
 
 
-<p><b>Before that, I received master degree from the Department of Electrical and Computer Engineering at University at Michigan, Ann Arbor in 2016, and my bachelor degree from the Department of Electrical and Computer Engineering at the Central SOuth University, Changsha, China.
+<p><b>Before that, I received master degree from the Department of Electrical and Computer Engineering at University at Michigan, Ann Arbor in 2016, and my bachelor degree from the Department of Electrical and Computer Engineering at the Central South University, Changsha, China.
 </b></p>
 
 <!-- ---
@@ -33,7 +33,7 @@
 ---
 ### <font size="3" color="#327BB4">Publications</font> 
 <p>
-	<b>P Yu</b>, R Zhang, Y Zhang, C Li, C Chen. <I>Self-Enhanced Inverse Reinforcement Learning for Text Generation <b><font color="#327BB4">(Oral)</font> </b>.</I> <I>Imitation, Intent, and Interaction, International Conference on Machine Learning <b>(ICML)</b>, 2019.</I>[<a href="https://www.linkedin.com/in/ping-yu-05ba8212b/">Paper</a>] 
+	<b>P Yu</b>, R Zhang, Y Zhang, C Li, C Chen. <I>Self-Enhanced Inverse Reinforcement Learning for Text Generation <b><font color="#ffcb05">(Oral)</font> </b>.</I> <I>Imitation, Intent, and Interaction, International Conference on Machine Learning <b>(ICML)</b>, 2019.</I>[<a href="https://www.linkedin.com/in/ping-yu-05ba8212b/">Paper</a>] 
 </p>
 
 
